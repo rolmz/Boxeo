@@ -1,2 +1,2 @@
 # Boxeo
-Juego de Boxeo desarrollado en Python
+Juego de Boxeo desarrollado mediante Python 2.7 y PyGame
